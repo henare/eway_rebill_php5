@@ -201,7 +201,7 @@ function ShowResult($lblResult, $lblErrorDescription, $lblErrorSeverity)
 
                 <td style="background-color: #dcdcdc;" width="50%">
 
-                    <span ID="lblErrorDescription" name="lblErrorDescription" value=">'. $lblErrorDescription . '</span></td>
+                    <span ID="lblErrorDescription" name="lblErrorDescription">'. $lblErrorDescription . '</span></td>
 
             </tr>
 
