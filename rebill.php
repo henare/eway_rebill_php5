@@ -44,7 +44,7 @@ function GetRebill()
 
         $objRebill->RebillInvDesc($_POST['txtInvDesc']);
 
-        $objRebill->RebillCCname($_POST['txtCCName']);
+        $objRebill->RebillCCName($_POST['txtCCName']);
 
         $objRebill->RebillCCNumber($_POST['txtCCNumber']);
 

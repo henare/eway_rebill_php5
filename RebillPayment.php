@@ -188,9 +188,9 @@ class RebillPayment
 		$this->m_RebillInvDesc = $value; 
 	}
 
-    	public function RebillCCname($value)
+	public function RebillCCName($value)
 	{ 
-		$this->m_RebillCCname = $value; 
+		$this->m_RebillCCName = $value;
 	}
 
     	public function RebillCCNumber($value)
