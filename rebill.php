@@ -131,13 +131,13 @@ function InitialiseFields()
 
         $txtInitAmt = "1000";
 
-        $txtInitDate = "25/08/2006";
+        $txtInitDate = "25/08/2015";
 
         $txtRecurAmt = "500";
 
-        $txtRecurDate = "25/08/2006";
+        $txtRecurDate = "25/08/2015";
 
-        $txtEndDate = "25/08/2007";
+        $txtEndDate = "25/08/2019";
 
         $txtewayCustomerID = "87654321";
 
@@ -527,6 +527,9 @@ else{InitialiseFields();}
                 <option value="11">11</option>
                 <option value="12">12</option>
                 <option value="13">13</option>
+                <option value="14">14</option>
+                <option value="15">15</option>
+                <option value="16" selected="selected">16</option>
           </select></td>
 
       <td width="20%" style="background-color: #dcdcdc">
